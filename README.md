@@ -9,6 +9,7 @@ My name is Tomasz. I graduated with a master's degree in management. I worked in
  * GIT - Version control system
  * Github
  * Poker Planning - Planning poker, also called Scrum poker
+ * Screenpresso - screen grab tool with built-in image editor
 # Tech skills
  * SQL
  * SCRUM
