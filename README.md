@@ -43,6 +43,7 @@ My name is Tomasz. I graduated with a master's degree in management. I worked in
 * GeekON
 # Webinars
  * [Darmowe Szkolenie Testera manualnego https://www.czyitjestdlamnie.pl/](https://event.webinarjam.com/replay/30/ywnq0tqgf89t659tw16)
+ * Darmowe szkolenie   Zostań Testerem Oprogramowania
 # Article
  * [Czym jest Playwright](https://jaktestowac.pl/lesson/pw1-s01-2/)
  * [Playwright Tutorials](https://www.seleniumeasy.com/playwright-tutorials) 
